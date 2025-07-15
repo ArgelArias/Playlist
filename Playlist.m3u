@@ -17,6 +17,12 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Canal 44" tvg-name="Canal 44" tvg-chno="44", Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-chno="50", NatGeo
+https://live2.saohgdasregions.fun:9091/92_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=837ec15686f125a5f6470f43b3ac1b6e8b5d3dec-be3116e307825c6093a3bc8124ecdb92-1752640561-1752618961
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-chno="51", History
+https://live2.saohgdasregions.fun:9091/49_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=c4a7f6218cda45cafa74f1eebb2ef148501cd2b5-5d98843bcfa5916509f33c628e4806be-1752640794-1752619194
+
 #EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-chno="106", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="Canal 6 MTY" tvg-name="Canal 6 MTY" tvg-chno="206", Canal 6 MTY
