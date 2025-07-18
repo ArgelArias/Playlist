@@ -22,7 +22,7 @@ except FileNotFoundError:
 final_lines[6] = origin_lines[0]
 final_lines[8] = origin_lines[1]
 counter = 0
-for item in range(2,28):
+for item in range(2,29):
     final_lines[27+item+counter] = origin_lines[item]
     counter+=1
 

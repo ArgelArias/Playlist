@@ -64,6 +64,8 @@ https://live2.saohgdasregions.fun:9091/95_/tracks-v1a1/mono.m3u8?remote=189.203.
 https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=46533cf7356e6fdfdec4e9af8732fa01aa39279b-542a29b204448efb6d8698027bdac9e6-1752893614-1752872014
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://www.telegratishd.com/imge/natgeo.png" tvg-chno="377", NatGeo
 https://live2.saohgdasregions.fun:9091/92_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=e2ca6dd69984b182f3308145570075bcb65cb309-5476726dc9da57f002d044376b8abf0a-1752893637-1752872037
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://www.telegratishd.com/imge/lifetime.png" tvg-chno="379", Lifetime
+https://live2.saohgdasregions.fun:9091/104_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=4dab5005a4f48ba108caf08df3cb82e938be7702-7256d12775eeeab2b27a68f643bc7e0a-1752894490-1752872890
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://www.telegratishd.com/imge/discoveryscience.png" tvg-chno="381", Discovery Science
 https://live2.saohgdasregions.fun:9091/139_/tracks-v1a1/mono.m3u8?remote=189.203.100.155&token=18d7ed10848c63952d641728da0772408e17e614-fa9b6b62a278b7578e621c6e76eece74-1752893660-1752872060
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.telegratishd.com/imge/discoverytlc.png" tvg-chno="386", TLC
