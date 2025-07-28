@@ -3,42 +3,42 @@
 	<channel id="Azteca_UNO">
 		<display-name lang="es">Azteca UNO</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca UNO">
 		<title lang="es">Azteca UNO</title>
 		<desc lang="es">Azteca UNO</desc>
 	</programme>
 	<channel id="Las_Estrellas">
 		<display-name lang="es">Las Estrellas</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Las Estrellas">
 		<title lang="es">Las Estrellas</title>
 		<desc lang="es">Las Estrellas</desc>
 	</programme>
 	<channel id="Canal 5">
 		<display-name lang="es">Canal 5</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 5">
 		<title lang="es">Canal 5</title>
 		<desc lang="es">Canal 5</desc>
 	</programme>
 	<channel id="Canal 6 GDL">
 		<display-name lang="es">Canal 6 GDL</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 GDL">
 		<title lang="es">Canal 6 GDL</title>
 		<desc lang="es">Canal 6 GDL</desc>
 	</programme>
 	<channel id="Canal 6 CDMX">
 		<display-name lang="es">Canal 6 CDMX</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 CDMX">
 		<title lang="es">Canal 6 CDMX</title>
 		<desc lang="es">Canal 6 CDMX</desc>
 	</programme>
 	<channel id="Canal 6 MTY">
 		<display-name lang="es">Canal 6 MTY</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 MTY">
 		<title lang="es">Canal 6 MTY</title>
 		<desc lang="es">Canal 6 MTY</desc>
 	</programme>
