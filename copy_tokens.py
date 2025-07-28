@@ -19,11 +19,11 @@ except FileNotFoundError:
 
 
 #copy the lines to the final lines array
-final_lines[8] = origin_lines[1] #canal 5
+final_lines[6] = origin_lines[0] #canal 5
 counter = 0
-for item in range(2,29):
-    line_counter = 27+item+counter
-    if line_counter >= 77 and line_counter <= 81:
+for item in range(1,28):
+    line_counter = 25+item+counter
+    if line_counter >= 75 and line_counter <= 79:
         continue
     final_lines[line_counter] = origin_lines[item]
     counter+=1

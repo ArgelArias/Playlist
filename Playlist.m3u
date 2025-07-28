@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ArgelArias/Playlist/refs/heads/master/EPG.xml"
-#EXTINF:-1 tvg-id="Azteca_UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1", Azteca UNO
+#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1", Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-chno="2", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/dDFrONz.png" tvg-chno="2.2", Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-chno="5", Canal 5
 https://live2.saohgdasregions.fun:9091/42_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=cd6969e76678d8c7b678555bdf93ef5b7ae404ee-7be997052bbcb881bb71ff2d57d9b8a9-1753752290-1753730690
 #EXTINF:-1 tvg-id="Canal 6 GDL" tvg-name="Canal 6 GDL" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6", Canal 6 GDL
@@ -58,7 +56,7 @@ https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.
 https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8629c6b3913fca524d7f47d713c18f5278582d58-648c78eb7c7af0a8237ff2acbdfb8821-1753752878-1753731278
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://www.telegratishd.com/imge/discoveryturbo.png" tvg-chno="364", Discovery Turbo
 https://live2.saohgdasregions.fun:9091/95_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=1a6c7cd5d85d8d651ea83d347432ad35637240a1-c710a45a47fef8db91e3f33e0dbfd424-1753752961-1753731361
-#EXTINF:-1 tvg-id="H&Discovery Channel" tvg-name="H&Discovery Channel" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" tvg-chno="371", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" tvg-chno="371", Discovery Channel
 https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=c94f492b58b18b765539d86e7d340d6ad7b56d47-405cab934660c46c16894bea239995e1-1753753003-1753731403
 #EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="https://www.telegratishd.com/imge/discoveryhyh.png" tvg-chno="374", H&H
 https://live2.saohgdasregions.fun:9091/92_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=1214e9f72788f7a5b80c48d5822bd0e26e36a5a9-4e365ba6d6f419294c74c3ad314744ab-1753753045-1753731445
