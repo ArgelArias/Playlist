@@ -6,7 +6,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/dDFrONz.png" tvg-chno="2.2", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-chno="5", Canal 5
-https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8aa98835e9a0eb860954089b089c8923851e604f-911f6ee276cafb3f684c1a2bd8b78dc8-1753695844-1753674244
+https://live2.saohgdasregions.fun:9091/42_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=cd6969e76678d8c7b678555bdf93ef5b7ae404ee-7be997052bbcb881bb71ff2d57d9b8a9-1753752290-1753730690
 #EXTINF:-1 tvg-id="Canal 6 GDL" tvg-name="Canal 6 GDL" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6", Canal 6 GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6.2", Canal 6 CDMX
@@ -27,53 +27,53 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" tvg-chno="201", Star Channel
-https://live2.saohgdasregions.fun:9091/42_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=31866e167832bd0c960c9b665b69b4355599f1e9-41195e3302613b96b98c46f3d9da2206-1753695886-1753674286
+https://live2.saohgdasregions.fun:9091/341_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=c800212c970055ec730812e95fdaca9e579b6a19-dbe417f318704a965a01c07310808b6c-1753752332-1753730732
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.telegratishd.com/imge/warnerbrostv.png" tvg-chno="205", Warner TV
-https://live2.saohgdasregions.fun:9091/341_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=bac35792ac9889a1e27f0fc852322ca3ec215685-72d3cc7e08331db590c2a0aee6c96b06-1753695928-1753674328
+https://live2.saohgdasregions.fun:9091/79_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2cc67dcc03f5be2ce77779aafcd09542169da65d-47e0dede3889dafe93e7ff5ac4ea5bee-1753752374-1753730774
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://www.telegratishd.com/imge/universalchannel.png" tvg-chno="207", Universal TV
-https://live2.saohgdasregions.fun:9091/79_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=9e496752b7b221efec80e4ac1d003a5eb9c5d2e9-628df98dab50c940ace93005d152cd90-1753695970-1753674370
+https://live2.saohgdasregions.fun:9091/371_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=45ede4fde4d27ba9e942c8909a724917b48789ba-07625b7d891bba4e20847ab83c7070e1-1753752416-1753730816
 #EXTINF:-1 tvg-id="Universal Premier" tvg-name="Universal Premier" tvg-logo="https://www.telegratishd.com/imge/universalpremiere.png" tvg-chno="208", Universal Premiere
-https://live2.saohgdasregions.fun:9091/371_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=02624a02f260ab354a437cf0556a32aba3a91ea5-f034f07799193cc84f11cba58a263c73-1753696012-1753674412
+https://live2.saohgdasregions.fun:9091/70_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=e7ca9b89d8252d265ed5ae33afc836ce2a243138-0d08eda494131a86cfe38f7588cccf77-1753752458-1753730858
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" tvg-chno="209", FX
-https://live2.saohgdasregions.fun:9091/70_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=f2b1a9e1f1a6103da3680bf6733f9361741b51c1-bf31268843ba2d38615434c43815f300-1753696054-1753674454
+https://live2.saohgdasregions.fun:9091/70_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=e7ca9b89d8252d265ed5ae33afc836ce2a243138-0d08eda494131a86cfe38f7588cccf77-1753752458-1753730858
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.telegratishd.com/imge/comedycentral.png" tvg-chno="217", Comedy Central
-https://live2.saohgdasregions.fun:9091/70_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=f2b1a9e1f1a6103da3680bf6733f9361741b51c1-bf31268843ba2d38615434c43815f300-1753696054-1753674454
+https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=22bf50e7c708d337a7845b3088e9cbf3dcee046c-f694bce4cb6d5eee0f796f3fec671f01-1753752542-1753730942
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://www.telegratishd.com/imge/usa.png" tvg-chno="257", USA
-https://live2.saohgdasregions.fun:9091/58_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=c4fd676b25c117c0bbdc48a516e1859cec3f3e57-1d0065f0fa7e7e3c836229b6d6c2dd8f-1753696138-1753674538
+https://live2.saohgdasregions.fun:9091/63_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=ca388fe016863aa2909b0bfdcb4bc7ce87663b0a-b145ef77bcd9e0bbec25a86f5a7c546a-1753752584-1753730984
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://i.imgur.com/MnH8XKh.png" tvg-chno="261", Unicable
-https://live2.saohgdasregions.fun:9091/63_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=30f5215fd18cdab52e0b8d319ce76a08e89e4a7d-772d48fd0b18d70096e7d4ff27d9dbb3-1753696180-1753674580
+https://live2.saohgdasregions.fun:9091/63_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=ca388fe016863aa2909b0bfdcb4bc7ce87663b0a-b145ef77bcd9e0bbec25a86f5a7c546a-1753752584-1753730984
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://www.telegratishd.com/imge/idinvestigation.png" tvg-chno="263", ID
-https://live2.saohgdasregions.fun:9091/98_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=c63de2174db9a5039d4608d3b02368648b2f5424-c0527c45d627623bd65f2af75253758f-1753696222-1753674622
+https://live2.saohgdasregions.fun:9091/76_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=a39ccecc33461d697a14649f85397a0f21394efa-863ad40ede4af6fa560e383da1152e1c-1753752668-1753731068
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://www.telegratishd.com/imge/tntseries.png" tvg-chno="266", TNT Series
-https://live2.saohgdasregions.fun:9091/76_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=cb536fc6e7d0eab1eedebfe4ebf079c7140cfaab-cdc0a36d4517684fe36dd4cfdf277f5e-1753696264-1753674664
+https://live2.saohgdasregions.fun:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=24aabad141c1993e0c1f22372f085e9c1e7e4dde-d9626da07819c4980223ae5a561c5f87-1753752710-1753731110
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" tvg-chno="272", Distrito Comedia
-https://live2.saohgdasregions.fun:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=bc0964ee704a8032fa2afce9c68a4a09cc45976c-4739ec21a84b48cf78e737bdc6d55654-1753696306-1753674706
+https://live2.saohgdasregions.fun:9091/110_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=e41dbac511bc4a6f87767e712b388ee35ee114f7-d0d198aa60e8991faa688ef50a9b6c5d-1753752752-1753731152
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://www.telegratishd.com/imge/nick.png" tvg-chno="315", Nickelodeon
-https://live2.saohgdasregions.fun:9091/110_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=a13a01fdcfc05174253e395d8c7aee9736150390-cad66a6f2c047d0bbe4decf25e57707b-1753696348-1753674748
+https://live2.saohgdasregions.fun:9091/114_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=3724a2dd0374d95b3c6dd214c4ae8938b16fada7-aef48d95370e47b16941c9195d64ab78-1753752794-1753731194
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://www.telegratishd.com/imge/cartoonnetwork.png" tvg-chno="320", Cartoon Network
-https://live2.saohgdasregions.fun:9091/114_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=d79d30d0064834a90a2144c76d39a6f3bfc59a52-8bbc8fb0600d9ca907548e87e8fda2e3-1753696390-1753674790
+https://live2.saohgdasregions.fun:9091/49_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=d11e38ff6b4941e03ceaded16b34eaab5c021a43-e8c7ea374695c7a692223640128c3d4d-1753752835-1753731235
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" tvg-chno="353", History
-https://live2.saohgdasregions.fun:9091/49_/tracks-a1/mono.ts.m3u8?remote=187.190.205.155&token=11e727826d7d00742baf3131ba48940f4f62f499-5264036ad9085055db67cb7c5f2f8327-1753696432-1753674832
+https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8629c6b3913fca524d7f47d713c18f5278582d58-648c78eb7c7af0a8237ff2acbdfb8821-1753752878-1753731278
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://www.telegratishd.com/imge/discoveryworld.png" tvg-chno="356", Discovery World
-https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8062882676d3258b65f92a1cfa35709e380907b7-df4225e873fef170da268acb18215d9e-1753696474-1753674874
+https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8629c6b3913fca524d7f47d713c18f5278582d58-648c78eb7c7af0a8237ff2acbdfb8821-1753752878-1753731278
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://www.telegratishd.com/imge/discoveryturbo.png" tvg-chno="364", Discovery Turbo
-https://live2.saohgdasregions.fun:9091/102_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=8062882676d3258b65f92a1cfa35709e380907b7-df4225e873fef170da268acb18215d9e-1753696474-1753674874
+https://live2.saohgdasregions.fun:9091/95_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=1a6c7cd5d85d8d651ea83d347432ad35637240a1-c710a45a47fef8db91e3f33e0dbfd424-1753752961-1753731361
 #EXTINF:-1 tvg-id="H&Discovery Channel" tvg-name="H&Discovery Channel" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" tvg-chno="371", Discovery Channel
-https://live2.saohgdasregions.fun:9091/95_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=c88106ec5ea1ddbc8fa43030459b8591767016a8-42658ac6aaa78e4242bfb4678eb6167d-1753696557-1753674957
+https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=c94f492b58b18b765539d86e7d340d6ad7b56d47-405cab934660c46c16894bea239995e1-1753753003-1753731403
 #EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="https://www.telegratishd.com/imge/discoveryhyh.png" tvg-chno="374", H&H
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/92_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=1214e9f72788f7a5b80c48d5822bd0e26e36a5a9-4e365ba6d6f419294c74c3ad314744ab-1753753045-1753731445
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://www.telegratishd.com/imge/natgeo.png" tvg-chno="377", NatGeo
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/104_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=50046b682ab3d5a203f254c42f6bc0050cbc44b6-e6955abf8c9472fb287dd7e76e943a86-1753753087-1753731487
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://www.telegratishd.com/imge/lifetime.png" tvg-chno="379", Lifetime
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/139_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=30ff743514e5404f8b304701a275bde3faa6eedb-e3d9d3b4ee99fab8a73b3c9a6e0992af-1753753129-1753731529
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://www.telegratishd.com/imge/discoveryscience.png" tvg-chno="381", Discovery Science
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/100_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2aa7d2471d9756ae69dd06282fdee74d3167ca72-ce777980a116d5f87efbb8a427a21556-1753753171-1753731571
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.telegratishd.com/imge/discoverytlc.png" tvg-chno="386", TLC
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/41_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=487b5d76c1d2e97266931f4266d8cef6a2294a92-ad79e811cf5d866838849742f552069c-1753753213-1753731613
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.telegratishd.com/imge/tnt.png" tvg-chno="435", TNT
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/39_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=21e85b753e53a53d66ebcf3082151384dfbe423f-f319453f7c9acc3d59856f7fef5caeea-1753753255-1753731655
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://www.telegratishd.com/imge/space.png" tvg-chno="445", Space
-https://live2.saohgdasregions.fun:9091/97_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2582588aa712452bf9c344aaf06c76ebd44cc9d4-404b417f48fc275709e8212d4a8b74b9-1753696600-1753675000
+https://live2.saohgdasregions.fun:9091/170_/tracks-v1a1/mono.ts.m3u8?remote=187.190.205.155&token=2341011f6c04773dc055a611906150e1287a1f1f-0d70c0621d963df07cdc2782fb73af0b-1753753297-1753731697
 #EXTINF:-1 tvg-id="DW Latam" tvg-name="DW Latam" tvg-logo="https://www.telegratishd.com/imge/dw.png" tvg-chno="655", DW Latam
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-chno="656", RT
