@@ -19,11 +19,13 @@ except FileNotFoundError:
 
 
 #copy the lines to the final lines array
-final_lines[6] = origin_lines[0]
-final_lines[8] = origin_lines[1]
+final_lines[8] = origin_lines[1] #canal 5
 counter = 0
 for item in range(2,29):
-    final_lines[27+item+counter] = origin_lines[item]
+    line_counter = 27+item+counter
+    if line_counter >= 77 and line_counter <= 81:
+        continue
+    final_lines[line_counter] = origin_lines[item]
     counter+=1
 
 #write on the final file
