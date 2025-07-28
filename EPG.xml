@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="My EPG">
-	<channel id="Azteca_UNO">
+	<channel id="Azteca UNO">
 		<display-name lang="es">Azteca UNO</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca_UNO">
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca UNO">
 		<title lang="es">Prueba</title>
 		<desc lang="es">Prueba.</desc>
 </tv>

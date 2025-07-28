@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ArgelArias/Playlist/refs/heads/master/EPG.xml"
-#EXTINF:-1 tvg-id="Azteca_UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1", Azteca UNO
+#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1", Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-chno="2", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
