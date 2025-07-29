@@ -7,4 +7,11 @@
 		<title lang="es">Prueba</title>
 		<desc lang="es">Prueba.</desc>
 	</programme>
+	<channel id="Las Estrellas">
+		<display-name lang="es">Las Estrellas</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Las Estrellas">
+		<title lang="es">Las Estrellas</title>
+		<desc lang="es">Las Estrellas</desc>
+	</programme>
 </tv>
