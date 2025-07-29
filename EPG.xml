@@ -4,8 +4,8 @@
 		<display-name lang="es">Azteca UNO</display-name>
 	</channel>
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca UNO">
-		<title lang="es">Prueba</title>
-		<desc lang="es">Prueba.</desc>
+		<title lang="es">Azteca UNO</title>
+		<desc lang="es">Azteca UNO</desc>
 	</programme>
 	<channel id="Las Estrellas">
 		<display-name lang="es">Las Estrellas</display-name>
