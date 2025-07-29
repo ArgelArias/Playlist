@@ -42,4 +42,11 @@
 		<title lang="es">Canal 6 MTY</title>
 		<desc lang="es">Canal 6 MTY</desc>
 	</programme>
+	<channel id="Azteca 7">
+		<display-name lang="es">Azteca 7</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca 7">
+		<title lang="es">Azteca 7</title>
+		<desc lang="es">Azteca 7</desc>
+	</programme>
 </tv>
