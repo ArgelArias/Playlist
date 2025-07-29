@@ -14,4 +14,74 @@
 		<title lang="es">Las Estrellas</title>
 		<desc lang="es">Las Estrellas</desc>
 	</programme>
+	<channel id="Canal 5">
+		<display-name lang="es">Canal 5</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 5">
+		<title lang="es">Canal 5</title>
+		<desc lang="es">Canal 5</desc>
+	</programme>
+	<channel id="Canal 6 GDL">
+		<display-name lang="es">Canal 6 GDL</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 GDL">
+		<title lang="es">Canal 6 GDL</title>
+		<desc lang="es">Canal 6 GDL</desc>
+	</programme>
+	<channel id="Canal 6 CDMX">
+		<display-name lang="es">Canal 6 CDMX</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 CDMX">
+		<title lang="es">Canal 6 CDMX</title>
+		<desc lang="es">Canal 6 CDMX</desc>
+	</programme>
+	<channel id="Canal 6 MTY">
+		<display-name lang="es">Canal 6 MTY</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 6 MTY">
+		<title lang="es">Canal 6 MTY</title>
+		<desc lang="es">Canal 6 MTY</desc>
+	</programme>
+	<channel id="Azteca 7">
+		<display-name lang="es">Azteca 7</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca 7">
+		<title lang="es">Azteca 7</title>
+		<desc lang="es">Azteca 7</desc>
+	</programme>
+	<channel id="Canal Once">
+		<display-name lang="es">Canal Once</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal Once">
+		<title lang="es">Canal Once</title>
+		<desc lang="es">Canal Once</desc>
+	</programme>
+	<channel id="Canal 14">
+		<display-name lang="es">Canal 14</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 14">
+		<title lang="es">Canal 14</title>
+		<desc lang="es">Canal 14</desc>
+	</programme>
+	<channel id="Canal 22">
+		<display-name lang="es">Canal 22</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 22">
+		<title lang="es">Canal 22</title>
+		<desc lang="es">Canal 22</desc>
+	</programme>
+	<channel id="ADN40">
+		<display-name lang="es">ADN40</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="ADN40">
+		<title lang="es">ADN40</title>
+		<desc lang="es">ADN40</desc>
+	</programme>
+	<channel id="Canal 44">
+		<display-name lang="es">Canal 44</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 44">
+		<title lang="es">Canal 44</title>
+		<desc lang="es">Canal 44</desc>
+	</programme>
 </tv>
