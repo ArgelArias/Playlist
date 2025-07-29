@@ -203,12 +203,12 @@
 		<title lang="es">Discovery Channel</title>
 		<desc lang="es">Discovery Channel</desc>
 	</programme>
-	<channel id="H&H">
-		<display-name lang="es">H&H</display-name>
+	<channel id="H&amp;H">
+		<display-name lang="es">H&amp;H</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="H&H">
-		<title lang="es">H&H</title>
-		<desc lang="es">H&H</desc>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="H&amp;H">
+		<title lang="es">H&amp;H</title>
+		<desc lang="es">H&amp;H</desc>
 	</programme>
 	<channel id="NatGeo">
 		<display-name lang="es">NatGeo</display-name>
