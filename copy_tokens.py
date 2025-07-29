@@ -17,13 +17,13 @@ try:
 except FileNotFoundError:
     print(f"File not found '{final_file_name}'")
 
-
 #copy the lines to the final lines array
 final_lines[6] = origin_lines[0] #canal 5
-counter = 0
-for item in range(1,28):
+counter = 1
+for item in range(1,30):
     line_counter = 25+item+counter
     if line_counter >= 75 and line_counter <= 79:
+        counter+=1
         continue
     final_lines[line_counter] = origin_lines[item]
     counter+=1
