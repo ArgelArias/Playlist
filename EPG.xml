@@ -315,11 +315,18 @@
 		<title lang="es">TBS</title>
 		<desc lang="es">TBS</desc>
 	</programme>
-	<channel id="Wacken">
-		<display-name lang="es">Wacken</display-name>
+	<channel id="Wacken Faster + Harder Stage">
+		<display-name lang="es">Wacken Faster + Harder Stage</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Wacken">
-		<title lang="es">Wacken</title>
-		<desc lang="es">Wacken</desc>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Wacken Faster + Harder Stage">
+		<title lang="es">Wacken Faster + Harder Stage</title>
+		<desc lang="es">Wacken Faster + Harder Stage</desc>
+	</programme>
+	<channel id="Louder Stage - Bullhead City">
+		<display-name lang="es">Louder Stage - Bullhead City</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Louder Stage - Bullhead City">
+		<title lang="es">Louder Stage - Bullhead City</title>
+		<desc lang="es">Louder Stage - Bullhead City</desc>
 	</programme>
 </tv>
