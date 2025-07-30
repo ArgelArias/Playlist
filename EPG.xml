@@ -315,4 +315,11 @@
 		<title lang="es">TBS</title>
 		<desc lang="es">TBS</desc>
 	</programme>
+	<channel id="Wacken">
+		<display-name lang="es">Wacken</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Wacken">
+		<title lang="es">Wacken</title>
+		<desc lang="es">Wacken</desc>
+	</programme>
 </tv>
