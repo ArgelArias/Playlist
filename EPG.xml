@@ -287,4 +287,32 @@
 		<title lang="es">Telehit</title>
 		<desc lang="es">Telehit</desc>
 	</programme>
+	<channel id="Fuji TV">
+		<display-name lang="es">Fuji TV</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Fuji TV">
+		<title lang="es">Fuji TV</title>
+		<desc lang="es">Fuji TV</desc>
+	</programme>
+	<channel id="NHK">
+		<display-name lang="es">NHK</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="NHK">
+		<title lang="es">NHK</title>
+		<desc lang="es">NHK</desc>
+	</programme>
+	<channel id="NHK World">
+		<display-name lang="es">NHK World</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="NHK World">
+		<title lang="es">NHK World</title>
+		<desc lang="es">NHK World</desc>
+	</programme>
+	<channel id="TBS">
+		<display-name lang="es">TBS</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="TBS">
+		<title lang="es">TBS</title>
+		<desc lang="es">TBS</desc>
+	</programme>
 </tv>
