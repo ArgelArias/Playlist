@@ -322,11 +322,11 @@
 		<title lang="es">Wacken Faster + Harder Stage</title>
 		<desc lang="es">Wacken Faster + Harder Stage</desc>
 	</programme>
-	<channel id="Louder Stage - Bullhead City">
-		<display-name lang="es">Louder Stage - Bullhead City</display-name>
+	<channel id="Wacken Louder Stage + Bullhead City">
+		<display-name lang="es">Wacken Louder Stage + Bullhead City</display-name>
 	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Louder Stage - Bullhead City">
-		<title lang="es">Louder Stage - Bullhead City</title>
-		<desc lang="es">Louder Stage - Bullhead City</desc>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Wacken Louder Stage + Bullhead City">
+		<title lang="es">Wacken Louder Stage + Bullhead City</title>
+		<desc lang="es">Wacken Louder Stage + Bullhead City</desc>
 	</programme>
 </tv>
