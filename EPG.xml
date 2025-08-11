@@ -315,4 +315,25 @@
 		<title lang="es">TBS</title>
 		<desc lang="es">TBS</desc>
 	</programme>
+	<channel id="Canal 34">
+		<display-name lang="es">Canal 34</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 34">
+		<title lang="es">Canal 34</title>
+		<desc lang="es">Canal 34</desc>
+	</programme>
+	<channel id="A+">
+		<display-name lang="es">A+</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="A+">
+		<title lang="es">A+</title>
+		<desc lang="es">A+</desc>
+	</programme>
+	<channel id="Ultra TV Puebla">
+		<display-name lang="es">Ultra TV Puebla</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Ultra TV Puebla">
+		<title lang="es">Ultra TV Puebla</title>
+		<desc lang="es">Ultra TV Puebla</desc>
+	</programme>
 </tv>
