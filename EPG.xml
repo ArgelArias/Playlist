@@ -7,12 +7,33 @@
 		<title lang="es">Azteca UNO</title>
 		<desc lang="es">Azteca UNO</desc>
 	</programme>
+	<channel id="Azteca Internacional">
+		<display-name lang="es">Azteca Internacional</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca Internacional">
+		<title lang="es">Azteca Internacional</title>
+		<desc lang="es">Azteca Internacional</desc>
+	</programme>
+	<channel id="Ultra TV Puebla">
+		<display-name lang="es">Ultra TV Puebla</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Ultra TV Puebla">
+		<title lang="es">Ultra TV Puebla</title>
+		<desc lang="es">Ultra TV Puebla</desc>
+	</programme>
 	<channel id="Las Estrellas">
 		<display-name lang="es">Las Estrellas</display-name>
 	</channel>
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Las Estrellas">
 		<title lang="es">Las Estrellas</title>
 		<desc lang="es">Las Estrellas</desc>
+	</programme>
+	<channel id="Imagen TV">
+		<display-name lang="es">Imagen TV</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Imagen TV">
+		<title lang="es">Imagen TV</title>
+		<desc lang="es">Imagen TV</desc>
 	</programme>
 	<channel id="Canal 5">
 		<display-name lang="es">Canal 5</display-name>
@@ -49,12 +70,26 @@
 		<title lang="es">Azteca 7</title>
 		<desc lang="es">Azteca 7</desc>
 	</programme>
+	<channel id="Galavision">
+		<display-name lang="es">Galavision</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Galavision">
+		<title lang="es">Galavision</title>
+		<desc lang="es">Galavision</desc>
+	</programme>
 	<channel id="Canal Once">
 		<display-name lang="es">Canal Once</display-name>
 	</channel>
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal Once">
 		<title lang="es">Canal Once</title>
 		<desc lang="es">Canal Once</desc>
+	</programme>
+	<channel id="El Trece">
+		<display-name lang="es">El Trece</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="El Trece">
+		<title lang="es">El Trece</title>
+		<desc lang="es">El Trece</desc>
 	</programme>
 	<channel id="Canal 14">
 		<display-name lang="es">Canal 14</display-name>
@@ -69,6 +104,13 @@
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 22">
 		<title lang="es">Canal 22</title>
 		<desc lang="es">Canal 22</desc>
+	</programme>
+	<channel id="Canal 34">
+		<display-name lang="es">Canal 34</display-name>
+	</channel>
+	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 34">
+		<title lang="es">Canal 34</title>
+		<desc lang="es">Canal 34</desc>
 	</programme>
 	<channel id="ADN40">
 		<display-name lang="es">ADN40</display-name>
