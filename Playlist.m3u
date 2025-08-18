@@ -1,242 +1,242 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ArgelArias/Playlist/refs/heads/master/EPG.xml"
-#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1.1", Azteca UNO
+#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV Abierta" tvg-chno="1.1", Azteca UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1.11", Azteca UNO
+#EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV Abierta" tvg-chno="1.11", Azteca UNO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=21&f=.ts
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-chno="1.21", Azteca Internacional
+#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV Abierta" tvg-chno="1.21", Azteca Internacional
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=22&f=.ts
-#EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-chno="1.2", A+
+#EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="TV Abierta" tvg-chno="1.2", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="Ultra TV Puebla" tvg-name="Ultra TV Puebla" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-chno="1.3", Ultra TV Puebla
+#EXTINF:-1 tvg-id="Ultra TV Puebla" tvg-name="Ultra TV Puebla" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="TV Abierta" tvg-chno="1.3", Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-chno="2.1", Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta" tvg-chno="2.1", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-chno="2.2", Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta" tvg-chno="2.2", Las Estrellas
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=25&f=.ts
-#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-logo="" tvg-chno="3.1", Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-logo="" group-title="TV Abierta" tvg-chno="3.1", Imagen TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=31&f=.ts
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-chno="5.1", Canal 5
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV Abierta" tvg-chno="5.1", Canal 5
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=6&f=.ts
-#EXTINF:-1 tvg-id="Canal 6 GDL" tvg-name="Canal 6 GDL" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6.1", Canal 6 GDL
+#EXTINF:-1 tvg-id="Canal 6 GDL" tvg-name="Canal 6 GDL" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6.1", Canal 6 GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6.2", Canal 6 CDMX
+#EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6.2", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="Canal 6 MTY" tvg-name="Canal 6 MTY" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-chno="6.3", Canal 6 MTY
+#EXTINF:-1 tvg-id="Canal 6 MTY" tvg-name="Canal 6 MTY" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6.3", Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-chno="7.1", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV Abierta" tvg-chno="7.1", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-chno="7.2", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV Abierta" tvg-chno="7.2", Azteca 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=3&f=.ts
-#EXTINF:-1 tvg-id="Galavision" tvg-name="Galavision" tvg-logo="" tvg-chno="9.1", Galavision
+#EXTINF:-1 tvg-id="Galavision" tvg-name="Galavision" tvg-logo="" tgroup-title="TV Abierta" vg-chno="9.1", Galavision
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=23&f=.ts
-#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://i.imgur.com/K0351vF.png" tvg-chno="11", Canal Once
+#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV Abierta" tvg-chno="11", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="" tvg-chno="13", El Trece
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="" group-title="TV Abierta" tvg-chno="13", El Trece
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=15&f=.ts
-#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://i.imgur.com/AWLWu91.png" tvg-chno="14", Canal 14
+#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="TV Abierta" tvg-chno="14", Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-logo="https://i.imgur.com/6qiYvhe.png" tvg-chno="22", Canal 22
+#EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="TV Abierta" tvg-chno="22", Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 34" tvg-name="Canal 34" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-chno="34", Canal 34
+#EXTINF:-1 tvg-id="Canal 34" tvg-name="Canal 34" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="TV Abierta" tvg-chno="34", Canal 34
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-logo="https://i.imgur.com/Og17U9N.png" tvg-chno="40", ADN40
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV Abierta" tvg-chno="40", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Canal 44" tvg-name="Canal 44" tvg-logo="https://i.imgur.com/YDp8MlN.png" tvg-chno="44", Canal 44
+#EXTINF:-1 tvg-id="Canal 44" tvg-name="Canal 44" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="TV Abierta" tvg-chno="44", Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" tvg-chno="201", Star Channel
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Series y Películas" tvg-chno="201", Star Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=11&f=.ts
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="" tvg-chno="203", Sony
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="" group-title="Series y Películas" tvg-chno="203", Sony
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=37&f=.ts
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.telegratishd.com/imge/warnerbrostv.png" tvg-chno="205", Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.telegratishd.com/imge/warnerbrostv.png" group-title="Series y Películas" tvg-chno="205", Warner TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://www.telegratishd.com/imge/universalchannel.png" tvg-chno="207", Universal TV
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-logo="https://www.telegratishd.com/imge/universalchannel.png" group-title="Series" tvg-chno="207", Universal TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=40&f=.ts
-#EXTINF:-1 tvg-id="Universal Premier" tvg-name="Universal Premier" tvg-logo="https://www.telegratishd.com/imge/universalpremiere.png" tvg-chno="208", Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premier" tvg-name="Universal Premier" tvg-logo="https://www.telegratishd.com/imge/universalpremiere.png" group-title="Películas" tvg-chno="208", Universal Premiere
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" tvg-chno="209", FX
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Series" tvg-chno="209", FX
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=32&f=.ts
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" tvg-chno="211", A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="Cultura" tvg-chno="211", A&E
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" tvg-chno="213", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="Deportes" tvg-chno="213", AXN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=38&f=.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.telegratishd.com/imge/comedycentral.png" tvg-chno="217", Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.telegratishd.com/imge/comedycentral.png" group-title="Comedia" tvg-chno="217", Comedy Central
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=67&f=.ts
-#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://www.telegratishd.com/imge/usa.png" tvg-chno="257", USA
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://www.telegratishd.com/imge/usa.png" group-title="Películas" tvg-chno="257", USA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=26&f=.ts
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://i.imgur.com/MnH8XKh.png" tvg-chno="261", Unicable
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento" tvg-chno="261", Unicable
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=30&f=.ts
-#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://www.telegratishd.com/imge/idinvestigation.png" tvg-chno="263", ID
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://www.telegratishd.com/imge/idinvestigation.png" group-title="Asesinatos" tvg-chno="263", ID
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://www.telegratishd.com/imge/tntseries.png" tvg-chno="266", TNT Series
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://www.telegratishd.com/imge/tntseries.png" group-title="Series" tvg-chno="266", TNT Series
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=36&f=.ts
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="" tvg-chno="268", El Gourmet
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="" group-title="Cocina" tvg-chno="268", El Gourmet
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=93&f=.ts
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" tvg-chno="272", Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedia" tvg-chno="272", Distrito Comedia
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=16&f=.ts
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="" tvg-chno="273", TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="" group-title="Telenovelas" tvg-chno="273", TNT Novelas
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
-#EXTINF:-1 tvg-id="TLNovelas" tvg-name="TLNovelas" tvg-logo="" tvg-chno="275", TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas" tvg-name="TLNovelas" tvg-logo="" group-title="Telenovelas" tvg-chno="275", TLNovelas
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=24&f=.ts
-#EXTINF:-1 tvg-id="Telemundo 51" tvg-name="Telemundo 51" tvg-logo="" tvg-chno="277", Telemundo 51
+#EXTINF:-1 tvg-id="Telemundo 51" tvg-name="Telemundo 51" tvg-logo="" group-title="Películas" tvg-chno="277", Telemundo 51
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=17&f=.ts
-#EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="" tvg-chno="278", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="" group-title="Entretenimiento" tvg-chno="278", Telemundo Internacional
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
-#EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="" tvg-chno="279", Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="" group-title="Entretenimiento" tvg-chno="279", Telemundo Puerto Rico
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="" tvg-chno="303", Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantiles" tvg-chno="303", Discovery Kids
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="" tvg-chno="308", Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="" group-title="Infantiles" tvg-chno="308", Disney Junior
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="" tvg-chno="311", Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles" tvg-chno="311", Disney Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://www.telegratishd.com/imge/nick.png" tvg-chno="315", Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://www.telegratishd.com/imge/nick.png" group-title="Infantiles" tvg-chno="315", Nickelodeon
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://www.telegratishd.com/imge/cartoonnetwork.png" tvg-chno="320", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://www.telegratishd.com/imge/cartoonnetwork.png" group-title="Infantiles" tvg-chno="320", Cartoon Network
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="" tvg-chno="324", Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="" group-title="Infantiles" tvg-chno="324", Cartoonito
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" tvg-chno="328", Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" group-title="Infantiles" tvg-chno="328", Tooncast
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=111&f=.ts
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="" tvg-chno="351", Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="" group-title="Cultura" tvg-chno="351", Discovery Theater
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" tvg-chno="353", History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Cultura" tvg-chno="353", History
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://www.telegratishd.com/imge/discoveryworld.png" tvg-chno="356", Discovery World
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://www.telegratishd.com/imge/discoveryworld.png" group-title="Cultura" tvg-chno="356", Discovery World
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://www.telegratishd.com/imge/discoveryturbo.png" tvg-chno="364", Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://www.telegratishd.com/imge/discoveryturbo.png" group-title="Coches" tvg-chno="364", Discovery Turbo
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=72&f=.ts
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="" tvg-chno="370", History 2
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="" group-title="Cultura" tvg-chno="370", History 2
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=19&f=.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" tvg-chno="371", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" group-title="Cultura" tvg-chno="371", Discovery Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=71&f=.ts
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="" tvg-chno="373", Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="" group-title="Naturaleza" tvg-chno="373", Animal Planet
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=69&f=.ts
-#EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="https://www.telegratishd.com/imge/discoveryhyh.png" tvg-chno="374", H&H
+#EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="https://www.telegratishd.com/imge/discoveryhyh.png" group-title="Hogar" tvg-chno="374", H&H
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=76&f=.ts
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://www.telegratishd.com/imge/natgeo.png" tvg-chno="377", NatGeo
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://www.telegratishd.com/imge/natgeo.png" group-title="Cultura" tvg-chno="377", NatGeo
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=68&f=.ts
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://www.telegratishd.com/imge/lifetime.png" tvg-chno="379", Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://www.telegratishd.com/imge/lifetime.png" group-title="Series y Películas" tvg-chno="379", Lifetime
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=90&f=.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://www.telegratishd.com/imge/discoveryscience.png" tvg-chno="381", Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://www.telegratishd.com/imge/discoveryscience.png" group-title="Cultura" tvg-chno="381", Discovery Science
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.telegratishd.com/imge/discoverytlc.png" tvg-chno="386", TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.telegratishd.com/imge/discoverytlc.png" group-title="Entretenimiento" tvg-chno="386", TLC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="" tvg-chno="483", Golden
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="" group-title="Películas" tvg-chno="483", Golden
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" tvg-chno="429", Paramount Channel
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" group-title="Películas" tvg-chno="429", Paramount Channel
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=64&f=.ts
-#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="" tvg-chno="430", Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="" group-title="Películas" tvg-chno="430", Cinecanal
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=13&f=.ts
-#EXTINF:-1 tvg-id="GOLDEN PREMIER 1" tvg-name="GOLDEN PREMIER 1" tvg-logo="" tvg-chno="431",GOLDEN PREMIER 1
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 1" tvg-name="GOLDEN PREMIER 1" tvg-logo="" group-title="Películas" tvg-chno="431",GOLDEN PREMIER 1
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=35&f=.ts
-#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-name="GOLDEN PREMIER 2" tvg-logo="" tvg-chno="432",GOLDEN PREMIER 2
+#EXTINF:-1 tvg-id="GOLDEN PREMIER 2" tvg-name="GOLDEN PREMIER 2" tvg-logo="" group-title="Películas" tvg-chno="432",GOLDEN PREMIER 2
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.telegratishd.com/imge/tnt.png" tvg-chno="435", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.telegratishd.com/imge/tnt.png" group-title="Series y Películas" tvg-chno="435", TNT
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=10&f=.ts
-#EXTINF:-1 tvg-id="Golden Plus" tvg-name="Golden Plus" tvg-logo="" tvg-chno="436", Golden Plus
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="Golden Plus" tvg-logo="" group-title="Películas" tvg-chno="436", Golden Plus
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=33&f=.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" tvg-chno="444", AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="Series y Películas" tvg-chno="444", AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=60&f=.ts
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://www.telegratishd.com/imge/space.png" tvg-chno="445", Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://www.telegratishd.com/imge/space.png" group-title="Películas" tvg-chno="445", Space
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=9&f=.ts
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" tvg-chno="481", Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="Películas" tvg-chno="481", Cinemax
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=12&f=.ts
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="" tvg-chno="484", Golden Edge
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="" group-title="Películas" tvg-chno="484", Golden Edge
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=34&f=.ts
-#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="" tvg-chno="489", De Pelicula
+#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="" group-title="Películas" tvg-chno="489", De Pelicula
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="" tvg-chno="492", Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="" group-title="Películas" tvg-chno="492", Studio Universal
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=53&f=.ts
-#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="" tvg-chno="493", Europa Europa
+#EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="" group-title="Noticias" tvg-chno="493", Europa Europa
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="" tvg-chno="652", Antena 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="" group-title="Noticias" tvg-chno="652", Antena 3
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
-#EXTINF:-1 tvg-id="DW Latam" tvg-name="DW Latam" tvg-logo="https://www.telegratishd.com/imge/dw.png" tvg-chno="655", DW Latam
+#EXTINF:-1 tvg-id="DW Latam" tvg-name="DW Latam" tvg-logo="https://www.telegratishd.com/imge/dw.png" group-title="Cultura" tvg-chno="655", DW Latam
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="DW Latam" tvg-name="DW Latam" tvg-logo="https://www.telegratishd.com/imge/dw.png" tvg-chno="655.1", DW Latam
+#EXTINF:-1 tvg-id="DW Latam" tvg-name="DW Latam" tvg-logo="https://www.telegratishd.com/imge/dw.png" group-title="Cultura" tvg-chno="655.1", DW Latam
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
-#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-chno="656", RT
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias" tvg-chno="656", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="CGNT" tvg-name="CGNT" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" tvg-chno="657", CGNT
+#EXTINF:-1 tvg-id="CGNT" tvg-name="CGNT" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="Cultura" tvg-chno="657", CGNT
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="" tvg-chno="667", Telefe
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="" group-title="Fé" tvg-chno="667", Telefe
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=14&f=.ts
-#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" tvg-logo="" tvg-chno="669", Caracol
+#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" tvg-logo="" group-title="No sé" tvg-chno="669", Caracol
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=27&f=.ts
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.telegratishd.com/imge/mtv.png" tvg-chno="726", MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.telegratishd.com/imge/mtv.png" group-title="Realities" tvg-chno="726", MTV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-chno="731", Telehit
+#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música" tvg-chno="731", Telehit
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="" tvg-chno="731", MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="" group-title="Música" tvg-chno="731", MTV 00s
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=176&f=.ts
 
-#EXTINF:-1 tvg-id="Fuji TV" tvg-name="Fuji TV" tvg-logo="https://cdn.worldvectorlogo.com/logos/fuji-tv-logo.svg" tvg-chno="801", Fuji TV
+#EXTINF:-1 tvg-id="Fuji TV" tvg-name="Fuji TV" tvg-logo="https://cdn.worldvectorlogo.com/logos/fuji-tv-logo.svg" group-title="Japón" tvg-chno="801", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/NHK_logo_2020.svg" tvg-chno="802", NHK
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/NHK_logo_2020.svg" group-title="Japón" tvg-chno="802", NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" tvg-chno="803", NHK World
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="Japón" tvg-chno="803", NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://es.wikipedia.org/wiki/Tokyo_Broadcasting_System_Television#/media/Archivo:Tokyo_Broadcasting_System_logo_2020.svg" tvg-chno="804", TBS
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://es.wikipedia.org/wiki/Tokyo_Broadcasting_System_Television#/media/Archivo:Tokyo_Broadcasting_System_logo_2020.svg" group-title="Japón" tvg-chno="804", TBS
 https://tbs5.mov3.co/hls/tbs.m3u8
 
 
-#EXTINF:-1 tvg-id="DRAGON BALL SUPER" tvg-name="DRAGON BALL SUPER" tvg-logo="" tvg-chno="1001", DRAGON BALL SUPER
+#EXTINF:-1 tvg-id="DRAGON BALL SUPER" tvg-name="DRAGON BALL SUPER" tvg-logo="" group-title="24 Horas" tvg-chno="1001", DRAGON BALL SUPER
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
-#EXTINF:-1 tvg-chno="1002",LATINA FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1002",LATINA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=7&f=.ts
-#EXTINF:-1 tvg-chno="1003",AMERICA TV FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1003",AMERICA TV FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=8&f=.ts
-#EXTINF:-1 tvg-chno="1004",PASIONES FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1004",PASIONES FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=20&f=.ts
-#EXTINF:-1 tvg-chno="1005",ATV FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1005",ATV FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=28&f=.ts
-#EXTINF:-1 tvg-chno="1006",UNIVISION FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1006",UNIVISION FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=29&f=.ts
-#EXTINF:-1 tvg-chno="1007",MULTIPREMIER FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1007",MULTIPREMIER FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=54&f=.ts
-#EXTINF:-1 tvg-chno="1008",EVERYTHING FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1008",EVERYTHING FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
-#EXTINF:-1 tvg-chno="1009",NICK JR FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1009",NICK JR FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
-#EXTINF:-1 tvg-chno="1010",WILLAX TV FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1010",WILLAX TV FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
-#EXTINF:-1 tvg-chno="1011",GLOBAL TV FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1011",GLOBAL TV FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
-#EXTINF:-1 tvg-chno="1012",PANICO FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1012",PANICO FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
-#EXTINF:-1 tvg-chno="1013",EXTREMA TV FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1013",EXTREMA TV FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
-#EXTINF:-1 tvg-chno="1014",TV PUBLICA FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1014",TV PUBLICA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
-#EXTINF:-1 tvg-chno="1015",MUSIC TOP FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1015",MUSIC TOP FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
-#EXTINF:-1 tvg-chno="1016",UNIVERSAL CINEMA FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1016",UNIVERSAL CINEMA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=167&f=.ts
-#EXTINF:-1 tvg-chno="1017",FM HOT MOVIES FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1017",FM HOT MOVIES FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
-#EXTINF:-1 tvg-chno="1018",FM HOT FAMILY FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1018",FM HOT FAMILY FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
-#EXTINF:-1 tvg-chno="1019",FM HOT KIDS FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1019",FM HOT KIDS FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
-#EXTINF:-1 tvg-chno="1020",DHE FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1020",DHE FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
-#EXTINF:-1 tvg-chno="1021",RCN FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1021",RCN FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
-#EXTINF:-1 tvg-chno="1022",TELE AMAZONAS FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1022",TELE AMAZONAS FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
-#EXTINF:-1 tvg-chno="1023",LOVE NATURE FHD
+#EXTINF:-1 group-title="No sé" tvg-chno="1023",LOVE NATURE FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
 
-#EXTINF:-1 tvg-chno="2001", LA CASA DE LOS FAMOSOS / COCINA FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2001", LA CASA DE LOS FAMOSOS / COCINA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
-#EXTINF:-1 tvg-chno="2002", LA CASA DE LOS FAMOSOS / TODA LA CASA FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2002", LA CASA DE LOS FAMOSOS / TODA LA CASA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
-#EXTINF:-1 tvg-chno="2003", LA CASA DE LOS FAMOSOS / ACCESO TOTAL FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2003", LA CASA DE LOS FAMOSOS / ACCESO TOTAL FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
-#EXTINF:-1 tvg-chno="2004", LA CASA DE LOS FAMOSOS / SALA FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2004", LA CASA DE LOS FAMOSOS / SALA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
-#EXTINF:-1 tvg-chno="2005", LA CASA DE LOS FAMOSOS / CUARTO DIA FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2005", LA CASA DE LOS FAMOSOS / CUARTO DIA FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
-#EXTINF:-1 tvg-chno="2006", LA CASA DE LOS FAMOSOS / BAÑO FHD
+#EXTINF:-1 group-title="La Casa de los Famosos" tvg-chno="2006", LA CASA DE LOS FAMOSOS / BAÑO FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
