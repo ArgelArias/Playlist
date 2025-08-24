@@ -7,13 +7,6 @@
 		<title lang="es">Azteca UNO</title>
 		<desc lang="es">Azteca UNO</desc>
 	</programme>
-	<channel id="Azteca Internacional">
-		<display-name lang="es">Azteca Internacional</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Azteca Internacional">
-		<title lang="es">Azteca Internacional</title>
-		<desc lang="es">Azteca Internacional</desc>
-	</programme>
 	<channel id="Ultra TV Puebla">
 		<display-name lang="es">Ultra TV Puebla</display-name>
 	</channel>
@@ -27,20 +20,6 @@
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Las Estrellas">
 		<title lang="es">Las Estrellas</title>
 		<desc lang="es">Las Estrellas</desc>
-	</programme>
-	<channel id="Imagen TV">
-		<display-name lang="es">Imagen TV</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Imagen TV">
-		<title lang="es">Imagen TV</title>
-		<desc lang="es">Imagen TV</desc>
-	</programme>
-	<channel id="Canal 5">
-		<display-name lang="es">Canal 5</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 5">
-		<title lang="es">Canal 5</title>
-		<desc lang="es">Canal 5</desc>
 	</programme>
 	<channel id="Canal 6 GDL">
 		<display-name lang="es">Canal 6 GDL</display-name>
@@ -70,26 +49,12 @@
 		<title lang="es">Azteca 7</title>
 		<desc lang="es">Azteca 7</desc>
 	</programme>
-	<channel id="Galavision">
-		<display-name lang="es">Galavision</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Galavision">
-		<title lang="es">Galavision</title>
-		<desc lang="es">Galavision</desc>
-	</programme>
 	<channel id="Canal Once">
 		<display-name lang="es">Canal Once</display-name>
 	</channel>
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal Once">
 		<title lang="es">Canal Once</title>
 		<desc lang="es">Canal Once</desc>
-	</programme>
-	<channel id="El Trece">
-		<display-name lang="es">El Trece</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="El Trece">
-		<title lang="es">El Trece</title>
-		<desc lang="es">El Trece</desc>
 	</programme>
 	<channel id="Canal 14">
 		<display-name lang="es">Canal 14</display-name>
@@ -126,174 +91,6 @@
 		<title lang="es">Canal 44</title>
 		<desc lang="es">Canal 44</desc>
 	</programme>
-	<channel id="Star Channel">
-		<display-name lang="es">Star Channel</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Star Channel">
-		<title lang="es">Star Channel</title>
-		<desc lang="es">Star Channel</desc>
-	</programme>
-	<channel id="Warner TV">
-		<display-name lang="es">Warner TV</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Warner TV">
-		<title lang="es">Warner TV</title>
-		<desc lang="es">Warner TV</desc>
-	</programme>
-	<channel id="Universal TV">
-		<display-name lang="es">Universal TV</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Universal TV">
-		<title lang="es">Universal TV</title>
-		<desc lang="es">Universal TV</desc>
-	</programme>
-	<channel id="Universal Premier">
-		<display-name lang="es">Universal Premier</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Universal Premier">
-		<title lang="es">Universal Premier</title>
-		<desc lang="es">Universal Premier</desc>
-	</programme>
-	<channel id="FX">
-		<display-name lang="es">ADN40</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="FX">
-		<title lang="es">FX</title>
-		<desc lang="es">FX</desc>
-	</programme>
-	<channel id="Comedy Central">
-		<display-name lang="es">Comedy Central</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Comedy Central">
-		<title lang="es">Comedy Central</title>
-		<desc lang="es">Comedy Central</desc>
-	</programme>
-	<channel id="USA">
-		<display-name lang="es">USA</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="USA">
-		<title lang="es">USA</title>
-		<desc lang="es">USA</desc>
-	</programme>
-	<channel id="Unicable">
-		<display-name lang="es">Unicable</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Unicable">
-		<title lang="es">Unicable</title>
-		<desc lang="es">Unicable</desc>
-	</programme>
-	<channel id="ID">
-		<display-name lang="es">ID</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="ID">
-		<title lang="es">ID</title>
-		<desc lang="es">ID</desc>
-	</programme>
-	<channel id="TNT Series">
-		<display-name lang="es">TNT Series</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="TNT Series">
-		<title lang="es">TNT Series</title>
-		<desc lang="es">TNT Series</desc>
-	</programme>
-	<channel id="Distrito Comedia">
-		<display-name lang="es">Distrito Comedia</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Distrito Comedia">
-		<title lang="es">Distrito Comedia</title>
-		<desc lang="es">Distrito Comedia</desc>
-	</programme>
-	<channel id="Nickelodeon">
-		<display-name lang="es">Nickelodeon</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Nickelodeon">
-		<title lang="es">Nickelodeon</title>
-		<desc lang="es">Nickelodeon</desc>
-	</programme>
-	<channel id="Cartoon Network">
-		<display-name lang="es">Cartoon Network</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Cartoon Network">
-		<title lang="es">Cartoon Network</title>
-		<desc lang="es">Cartoon Network</desc>
-	</programme>
-	<channel id="History">
-		<display-name lang="es">History</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="History">
-		<title lang="es">History</title>
-		<desc lang="es">History</desc>
-	</programme>
-	<channel id="Discovery World">
-		<display-name lang="es">Discovery World</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Discovery World">
-		<title lang="es">Discovery World</title>
-		<desc lang="es">Discovery World</desc>
-	</programme>
-	<channel id="Discovery Turbo">
-		<display-name lang="es">Discovery Turbo</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Discovery Turbo">
-		<title lang="es">Discovery Turbo</title>
-		<desc lang="es">Discovery Turbo</desc>
-	</programme>
-	<channel id="Discovery Channel">
-		<display-name lang="es">Discovery Channel</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Discovery Channel">
-		<title lang="es">Discovery Channel</title>
-		<desc lang="es">Discovery Channel</desc>
-	</programme>
-	<channel id="H&amp;H">
-		<display-name lang="es">H&amp;H</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="H&amp;H">
-		<title lang="es">H&amp;H</title>
-		<desc lang="es">H&amp;H</desc>
-	</programme>
-	<channel id="NatGeo">
-		<display-name lang="es">NatGeo</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="NatGeo">
-		<title lang="es">NatGeo</title>
-		<desc lang="es">NatGeo</desc>
-	</programme>
-	<channel id="Lifetime">
-		<display-name lang="es">Lifetime</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Lifetime">
-		<title lang="es">Lifetime</title>
-		<desc lang="es">Lifetime</desc>
-	</programme>
-	<channel id="Discovery Science">
-		<display-name lang="es">Discovery Science</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Discovery Science">
-		<title lang="es">Discovery Science</title>
-		<desc lang="es">Discovery Science</desc>
-	</programme>
-	<channel id="TLC">
-		<display-name lang="es">TLC</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="TLC">
-		<title lang="es">TLC</title>
-		<desc lang="es">TLC</desc>
-	</programme>
-	<channel id="TNT">
-		<display-name lang="es">TNT</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="TNT">
-		<title lang="es">TNT</title>
-		<desc lang="es">TNT</desc>
-	</programme>
-	<channel id="Space">
-		<display-name lang="es">Space</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Space">
-		<title lang="es">Space</title>
-		<desc lang="es">Space</desc>
-	</programme>
 	<channel id="DW Latam">
 		<display-name lang="es">DW Latam</display-name>
 	</channel>
@@ -314,20 +111,6 @@
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="CGNT">
 		<title lang="es">CGNT</title>
 		<desc lang="es">CGNT</desc>
-	</programme>
-	<channel id="MTV">
-		<display-name lang="es">MTV</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="MTV">
-		<title lang="es">MTV</title>
-		<desc lang="es">MTV</desc>
-	</programme>
-	<channel id="Telehit">
-		<display-name lang="es">Telehit</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Telehit">
-		<title lang="es">Telehit</title>
-		<desc lang="es">Telehit</desc>
 	</programme>
 	<channel id="Fuji TV">
 		<display-name lang="es">Fuji TV</display-name>
@@ -363,13 +146,6 @@
 	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="Canal 34">
 		<title lang="es">Canal 34</title>
 		<desc lang="es">Canal 34</desc>
-	</programme>
-	<channel id="A+">
-		<display-name lang="es">A+</display-name>
-	</channel>
-	<programme start="20250101010000 +0100" stop="20302031235900 +0100" channel="A+">
-		<title lang="es">A+</title>
-		<desc lang="es">A+</desc>
 	</programme>
 	<channel id="Ultra TV Puebla">
 		<display-name lang="es">Ultra TV Puebla</display-name>
