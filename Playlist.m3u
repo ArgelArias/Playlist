@@ -44,3 +44,6 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="" group-title="Cable" tvg-chno="377", Nat Geo
 https://live.saohgdasregions.fun:9092/MTg5LjIwMy4xMDAuMTU1/47_.m3u8?token=B_4AngvzHsXaxb69uvvnVQ&expires=1769050199
+
+#EXTINF:-1 tvg-id="Los 40" tvg-name="Los 40" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/9841.v40.png" group-title="Radio" tvg-chno="40.1", Los 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac?dist=onlineradiobox
