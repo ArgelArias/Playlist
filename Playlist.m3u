@@ -23,7 +23,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV Abierta" tvg-chno="40", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Los 40" tvg-name="Los 40" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/9841.v40.png" group-title="Radio" tvg-chno="40.1", Los 40
+#EXTINF:-1 tvg-id="Los 40 Principales" tvg-name="Los 40 Principales" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/9841.v40.png" group-title="Radio" tvg-chno="40.1", Los 40 Principales
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-id="Canal 44" tvg-name="Canal 44" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="TV Abierta" tvg-chno="44", Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
@@ -47,4 +47,4 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 http://kathy.torontocast.com:3340/stream
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="" group-title="Cable" tvg-chno="377", Nat Geo
-https://live.saohgdasregions.fun:9092/MTg5LjIwMy4xMDAuMTU1/47_.m3u8?token=B_4AngvzHsXaxb69uvvnVQ&expires=1769050199
+https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMDMuMTU1/47_.m3u8?token=2zKLyqfrceXFifI4e3JlXw&expires=1776270790
