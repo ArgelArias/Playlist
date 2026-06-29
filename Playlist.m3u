@@ -1,20 +1,30 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ArgelArias/Playlist/refs/heads/master/EPG.xml"
 #EXTINF:-1 tvg-id="Azteca UNO" tvg-name="Azteca UNO" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV Abierta" tvg-chno="1", Azteca UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+https://mx-b9-i-e-bv1.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/63da3925-5ce4-4739-8bc5-7a546a445229:ATL/variant/dd68d43f2db88fe2af446fa801f2d3a0/bandwidth/1658800.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=SJOptLUxcEWqMAI5O1GHUtApdsdWr6QVWE2cOkjPh8blllhnlgU1wUbwS2B0bMova6tylxhjhW0&uid=b0k1mGnFmJqk4jMNI6TEOt8FFwCxLzxo&sid=oRevrv8gkbHYe8bjMeCPLHIpMJbMamC0&pid=H08K4uWNbcaxZlyYG34J1emjXCg1jO56&ref=envivo.tvazteca.com&ext_pb=0&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D256300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22H08K4uWNbcaxZlyYG34J1emjXCg1jO56%22&adInsertionGoogleStreamId=63da3925-5ce4-4739-8bc5-7a546a445229%3AATL&es=mx-b9-i-e-bv1.cdn.mdstrm.com&ote=1782778791388&ot=YZqo4rJ2QwZjjzfUrhqJvA&proto=https&pz=us
+#EXTINF:-1 tvg-id="Azteca UNO -1" tvg-name="Azteca UNO -1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV Abierta" tvg-chno="1.1", AZTECA UNO 1.1 -1h
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-id="Ultra TV Puebla" tvg-name="Ultra TV Puebla" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="TV Abierta" tvg-chno="10", Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta" tvg-chno="2", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Imagen TV+" tvg-name="Imagen TV+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV Abierta" tvg-chno="3", IMAGEN TV+
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 tvg-id="Canal 6 GDL" tvg-name="Canal 6 GDL" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6", Canal 6 GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="Canal 6 CDMX" tvg-name="Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6.2", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="Canal 6 MTY" tvg-name="Canal 6 MTY" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta" tvg-chno="6.3", Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="Telediario Now" tvg-name="Telediario Now" group-title="TV Abierta" tvg-chno="6.4", Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV Abierta" tvg-chno="7", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="A+" tvg-name="A+" tvg-logo="" group-title="TV Abierta" tvg-chno="7.2", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV Abierta" tvg-chno="11", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" group-title="TV Abierta" tvg-chno="12", Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="TV Abierta" tvg-chno="14", Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="TV Abierta" tvg-chno="22", Canal 22
@@ -45,6 +55,3 @@ https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="ADR J-Rock" tvg-name="ADR J-Rock" tvg-logo="" group-title="Radio" tvg-chno="84", ADR J-Rock
 http://kathy.torontocast.com:3340/stream
-
-#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="" group-title="Cable" tvg-chno="377", Nat Geo
-https://regionales.saohgdasregions.fun:9092/MTg5LjIwMy4xMDMuMTU1/47_.m3u8?token=2zKLyqfrceXFifI4e3JlXw&expires=1776270790
