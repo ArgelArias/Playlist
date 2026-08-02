@@ -65,8 +65,12 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/NHK_logo_2020.svg" group-title="Japón" tvg-chno="81", NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="Japón" tvg-chno="82", NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://es.wikipedia.org/wiki/Tokyo_Broadcasting_System_Television#/media/Archivo:Tokyo_Broadcasting_System_logo_2020.svg" group-title="Japón" tvg-chno="83", TBS
 https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TV Tokyo" tvg-name="TV Tokyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAIUNHOIIa5zj25JyhV27ARN3FGionfmuDTSaXuK44YfRO0GvLUj5_28&s=10" group-title="Japón" tvg-chno="84", TV Tokyo
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-id="Shop Channel" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/CCMAF7W.png" group-title="Japón" tvg-chno="85", Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="ADR J-Rock" tvg-name="ADR J-Rock" tvg-logo="" group-title="Radio" tvg-chno="84", ADR J-Rock
 http://kathy.torontocast.com:3340/stream
