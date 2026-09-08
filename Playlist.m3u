@@ -29,7 +29,7 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="TV Abierta" tvg-chno="14", Canal 14
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="Jalisco TV" tvg-name="Jalisco TV" tvg-logo="https://jaliscotv.com/wp-content/uploads/2020/04/jaliscotv-logo.webp" group-title="TV Abierta" tvg-chno="17.1", Jalisco TV
+#EXTINF:-1 tvg-id="Jalisco TV" tvg-name="Jalisco TV" tvg-logo="https://jaliscotv.com/wp-content/uploads/2020/04/jaliscotv-logo.webp" group-title="TV Abierta" tvg-chno="17", Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-logo="https://www.canalesdemexicoenvivo.com/wp-content/uploads/2026/03/imagen_2026-03-21_154307991.png" group-title="TV UNAM" tvg-chno="20", TV UNAM
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w446031977_DVR.m3u8
